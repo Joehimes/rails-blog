@@ -1,24 +1,11 @@
-# README
+This is a tutorial completed as part of The Odin Project.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To get started, fork this repository.
 
-Things you may want to cover:
+Clone your fork to your workspace.
 
-* Ruby version
+Change into the directory where you have your clone.
 
-* System dependencies
+Run 'bundle install' to grab all gems needed for this project.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run 'rails server' to start the server and tune your browser to 'localhost:3000'.
